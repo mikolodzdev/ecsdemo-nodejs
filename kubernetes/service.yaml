@@ -7,6 +7,6 @@ spec:
     app: ecsdemo-nodejs
   ports:
    -  protocol: TCP
-      port: 80
+      port: 81
       targetPort: 3000
 
